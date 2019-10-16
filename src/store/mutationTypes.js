@@ -1,0 +1,1 @@
+export const SET_SAMPLE_TEXT = 'SET_SAMPLE_TEXT'
